@@ -6,10 +6,10 @@
 
 <footer class="text-center p-4">
 	<p class="text-sm mt-2">
-		<a href="/" class="underline" data-sveltekit-reload>Baca-Quran.id,</a>
+		<a href="/" class="underline" data-sveltekit-reload>Al-Qur'an Online,</a>
 		<span>oleh</span>
-		<a class="underline" href="https://mazipan.space/" target="_blank" rel="noopener noreferrer">
-			Irfan Maulana</a
+		<a class="underline" href="https://instagram.com/yuda.dika_" target="_blank" rel="noopener noreferrer">
+			Yoeda Dika </a
 		>
 	</p>
 	<small>Copyright © 2018 - {currentYear}</small>
